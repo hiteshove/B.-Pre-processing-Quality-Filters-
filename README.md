@@ -1,2 +1,1 @@
-# ML Data Pipeline with Streamlit
-Refer to documentation provided earlier.
+Optional: put YAML/JSON configs here.
