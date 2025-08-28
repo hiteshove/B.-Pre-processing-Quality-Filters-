@@ -1,0 +1,14 @@
+streamlit
+pandas
+opencv-python
+pillow
+numpy
+librosa
+pydub
+moviepy
+scikit-learn
+torch
+tensorflow
+ffmpeg-python
+PyMuPDF
+pytesseract
